@@ -2,7 +2,7 @@
 
 - 🏢 I'm a ECE Sophomore
 - ⚙️ I use daily: `.js`, `.ts`, `.python`
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 - 💬 Ask me about **web design** and **development** 
 - 📫 Reach me: sruthycodes@gmail.com
 - 😄 Pronouns: she/her
