@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 I'm a ECE junior
+- 🏢 I'm a ECE graduate
 - ⚙️ I use daily: `.js`, `.ts`, `.python`
 - 🌱 I’m currently learning **Nest.js**
 - 💬 Ask me about **web design** and **development** 
